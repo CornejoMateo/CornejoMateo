@@ -1,12 +1,18 @@
 ## ¡Hola! 👋, soy Mateo Cornejo
 
-🎓 Soy un programador en constante aprendizaje y siempre estoy buscando nuevas formas de mejorar mis habilidades y colaborar en proyectos interesantes. Actualmente, estoy estudiando **Analista en computacion** y **Licenciatura en Computacion** en la **Universidad Nacional de Río Cuarto**.
+🎓 Soy un programador en constante aprendizaje y siempre estoy buscando nuevas formas de mejorar mis habilidades y colaborar en proyectos interesantes. Actualmente, estoy estudiando **Analista en computación** y **Licenciatura en Computación** en la **Universidad Nacional de Río Cuarto**.
 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
 
 ![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CornejoMateo&show_icons=true&theme=radical)
+
+### 🔥 GitHub Streak Stats
+
+![Mateo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CornejoMateo&theme=radical)
+
+### 💻 Lenguajes más Usados
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CornejoMateo&layout=compact&theme=radical)
 
@@ -21,22 +27,3 @@
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-
----
-
-
-<!--
-**CornejoMateo/CornejoMateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
