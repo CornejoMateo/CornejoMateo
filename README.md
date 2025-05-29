@@ -4,21 +4,21 @@
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 📊 Mis estadísticas de GitHub
 
 ![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CornejoMateo&show_icons=true&theme=radical)
 
-### 💻 Lenguajes más Usados
+### 💻 Lenguajes más usados
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CornejoMateo&layout=compact&theme=radical)
 
 ---
 
-### 🔥 GitHub Streak Stats
+### 🔥 GitHub Streak stats
 
 ![Mateo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CornejoMateo&theme=radical)
 
-### 🛠 Herramientas y Tecnologías
+### 🛠 Herramientas y tecnologías
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,3 +27,10 @@
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+
+### 🚨 Proyecto destacados
+
+#### 📱 [Applert](https://expo.dev/accounts/mateocornejo/projects/applert/builds/4572b21c-a84e-4567-b29e-f67c9920afe2)
+App móvil desarrollada para la gestión de **alertas de seguridad ciudadana**.
+
+> 🛠 **Tecnologías**: React Native · Firebase · Expo · JavaScript  
