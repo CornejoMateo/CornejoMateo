@@ -1,6 +1,6 @@
 ## ¡Hola! 👋, soy Mateo Cornejo
 
-🎓 Soy un programador en constante aprendizaje y siempre estoy buscando nuevas formas de mejorar mis habilidades y colaborar en proyectos interesantes. Actualmente, estoy estudiando **Analista en computación** y **Licenciatura en Computación** en la **Universidad Nacional de Río Cuarto**.
+🎓 Soy un programador en constante aprendizaje y siempre estoy buscando nuevas formas de mejorar mis habilidades y colaborar en proyectos interesantes. Actualmente, estoy estudiando **Licenciatura en Computación** en la **Universidad Nacional de Río Cuarto**.
 
 ---
 
