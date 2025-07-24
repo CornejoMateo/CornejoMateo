@@ -31,11 +31,12 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
-### 🚨 Proyecto destacados
+<div aligbn = "center">
+### Proyecto destacados
 
 <div align="center">
 
-#### 📱 [Applert]  
+#### 🚨 [Applert]  
 App móvil desarrollada para la gestión de **alertas de seguridad ciudadana**.
 
 > 🛠 **Tecnologías**: React Native · Firebase · Expo · JavaScript
