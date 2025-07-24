@@ -32,9 +32,8 @@
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 <div align = "center">
+  
 ### Proyecto destacados
-
-<div align="center">
 
 #### 🚨 [Applert]  
 App móvil desarrollada para la gestión de **alertas de seguridad ciudadana**.
