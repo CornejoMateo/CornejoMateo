@@ -1,4 +1,4 @@
-## ¡Hola! 👋, soy Mateo Cornejo
+## Hello! 👋, I'm Mateo Cornejo.
 
 I am a programmer who is constantly learning and always looking for new ways to improve my skills and collaborate on interesting projects. I am currently studying for a Bachelor's Degree in Computer Science at the National University of Río Cuarto.
 
