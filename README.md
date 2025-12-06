@@ -4,10 +4,10 @@ I am a programmer who is constantly learning and always looking for new ways to 
 
 ---
 
-### 📊 Mis estadísticas de GitHub
+### 📊 My GitHub statistics
 ![Mateo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CornejoMateo&show_icons=true&theme=radical)
 
-### 💻 Lenguajes más usados
+### 💻 Most commonly used languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CornejoMateo&layout=compact&theme=radical)
 
 ---
@@ -27,14 +27,5 @@ I am a programmer who is constantly learning and always looking for new ways to 
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
-<div align = "center">
-  
-### Proyecto destacados
-
-#### 🚨 [Applert]  
-App móvil desarrollada para la gestión de **alertas de seguridad ciudadana**.
-
-> 🛠 **Tecnologías**: React Native · Firebase · Expo · JavaScript
-
-</div>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
