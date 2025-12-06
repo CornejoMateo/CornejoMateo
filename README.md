@@ -1,6 +1,6 @@
 ## ¡Hola! 👋, soy Mateo Cornejo
 
-🎓 Soy un programador en constante aprendizaje y siempre estoy buscando nuevas formas de mejorar mis habilidades y colaborar en proyectos interesantes. Actualmente, estoy estudiando **Licenciatura en Computación** en la **Universidad Nacional de Río Cuarto**.
+I am a programmer who is constantly learning and always looking for new ways to improve my skills and collaborate on interesting projects. I am currently studying for a Bachelor's Degree in Computer Science at the National University of Río Cuarto.
 
 ---
 
