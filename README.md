@@ -15,7 +15,7 @@ I am a programmer who is constantly learning and always looking for new ways to 
 ### 🔥 GitHub Streak stats
 ![Mateo's GitHub Streak](https://streak-stats.demolab.com/?user=CornejoMateo&theme=radical)
 
-### 🛠 Herramientas y tecnologías
+### 🛠 Tools and technologies
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
